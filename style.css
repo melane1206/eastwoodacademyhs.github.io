@@ -1,1 +1,33 @@
+.navbar {
+  padding-top: 1rem;
+  background-color:#b8d0f5;
+  color:#1b4eb5;
+  display: flex-end;
+  justify-content: space-between;
+}
+ul {
+  display: inline-flex;
+  justify-content: center;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-end: 40px;
+  list-style: none;
+}
+li {
+  padding: 0.5rem 1.5 rem;
+  margin-right: 1.5 rem;
+  display: inline block;
+}
+.header-container {
+  height: 30rem;
+  width: auto;
+  display: flex;
+  background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facilitron.com%2Fea77023&psig=AOvVaw06WzL4W0iRsJp-yRbk9g4z&ust=1730836445179000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjjqbK6w4kDFQAAAAAdAAAAABAE);
+  align-items: center;
+  background-position: center;
+  background-repeat: none;
+}
 
+  
