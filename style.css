@@ -119,5 +119,22 @@ body{
   padding-top: 3rem;
   padding-bottom: 3rem;
 }
-  
+
+.photos img {
+  margin: 1.5%
+  width: 30%
+}
+img {
+  overflow-clip-margin:  content-box;
+  overflow: clip;
+}
+li {
+  display: block;
+  text-align: center;
+}
+.events img {
+  mac-width: 100%;
+  margin: auto;
+}
+
   
