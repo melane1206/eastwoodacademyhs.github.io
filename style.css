@@ -137,4 +137,25 @@ li {
   margin: auto;
 }
 
+
+
+
+
+
+.contact {
+  background-color: #deeafc;
+  display: block;
+  padding: 0 1rem;
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.contact img {
+  height: 30rem;
+  width: auto;
+  display: block;
+  margin: auto;
+}
+    
+
   
