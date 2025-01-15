@@ -1,5 +1,5 @@
 h1 {
-  font-family: 'Merriweather', serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   color: #deeafc;
   margin-top: 2rem;
@@ -18,7 +18,7 @@ h2 {
   color: #150f80;
 }
 p {
-  font-family:'Roboto', sans-serif;
+  font-family:'Open Sans', sans-serif;
   font-weight: 300;
   font-size: 18px;
   color: #150f80;
