@@ -16,6 +16,17 @@ h2 {
   margin-inline-end: 0px;
   color: #150f80;
 }
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  color: #150f80;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+  
 p {
   font-family:'Open Sans', sans-serif;
   font-weight: 300;
