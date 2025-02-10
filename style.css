@@ -99,7 +99,7 @@ body{
   font-size: 18px;
 }
 .Teachers {
-  padding: 0 1rem;
+  padding: 0 3rem;
 }
 .Teachers h2 {
   text-align: center;
@@ -126,8 +126,8 @@ body{
   margin-bottom: 2rem;
   display: block;
   background-color:#deeafc;
-  padding-top: 0 3rem;
-  padding-bottom: 3rem;
+  padding: 0 3rem;
+  padding-top: 1rem;
 }
 
 .clubs h2 {
