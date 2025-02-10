@@ -120,6 +120,13 @@ body{
   padding-bottom: 3rem;
 }
 
+.clubs h2 {
+  text-align: center;
+  color: #150f80;
+  font-size: 3rem;
+  font-style: bold;
+}
+
 .photos img {
   margin: 1.5%
   width: 30%
