@@ -67,6 +67,7 @@ li {
   padding: 1.0rem 1.0 rem;
   margin-right: 1.5 rem;
   display: inline;
+  margin-right: 10px;
 }
 .header-container {
   height: 30rem;
