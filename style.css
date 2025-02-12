@@ -120,6 +120,7 @@ body{
 .student-life h2{
   text-align: center;
   font-size: 3rem;
+  font-size: 22px;
 }
 .Clubs {
   display: block;
@@ -131,6 +132,8 @@ body{
 .clubs h2 {
   text-align: center;
   font-size: 3rem;
+  font-size: 22px;
+  color: #150f80;
 }
 
 .photos img {
