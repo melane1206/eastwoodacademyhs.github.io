@@ -146,6 +146,19 @@ font-size: 3rem;
 
 }
 
+.Contact {
+  background-color: #deeafc;
+  text-align: center;
+  display: block;
+  padding: 0 1rem;
+  padding-top: 3rem;
+}
+
+.Contact h2 {
+  text-align: center;
+  font-size: 3rem;
+}
+
 .photos img {
   margin: 1.5%
   width: 30%
@@ -177,7 +190,7 @@ li {
   padding-bottom: 3rem;
 }
 
-.Contact img {
+.Contact h2 {
   height: 3rem;
   width: auto;
   display: block;
