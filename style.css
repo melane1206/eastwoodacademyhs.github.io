@@ -133,7 +133,6 @@ body{
 .Clubs h2 {
   text-align: center;
   font-size: 3rem;
-  color: #150f80;
 }
 
 
@@ -147,11 +146,7 @@ body{
 
 
 .Contact {
-  background-color: #deeafc;
-  text-align: center;
-  display: block;
   padding: 0 3rem;
-  padding-top: 6rem;
 }
 .Contact h2 {
   text-align: center;
