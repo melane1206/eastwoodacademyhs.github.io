@@ -122,10 +122,11 @@ body{
 }
 .Clubs {
   display: block;
-  height: 20rem;
+  height: 60rem;
   background-color:#deeafc;
   padding: 0 3rem;
   padding-top: 1rem;
+  
 }
 
 .clubs h2 {
