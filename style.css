@@ -99,13 +99,7 @@ body{
   display: block;
   font-size: 18px;
 }
-.Teachers {
-  padding: 0 3rem;
-}
-.Teachers h2 {
-  text-align: center;
-  font-size: 3rem;
-}
+
 .Teachers,
 .Student-life,
 .Clubs,
@@ -113,6 +107,17 @@ body{
 .Submission-Requests {
   margin:4em auto;
 }
+
+
+.Teachers {
+  padding: 0 3rem;
+}
+.Teachers h2 {
+  text-align: center;
+  font-size: 3rem;
+}
+
+
 .Student-life {
   padding: 0 3rem;
 }
@@ -120,26 +125,26 @@ body{
   text-align: center;
   font-size: 3rem;
 }
+
+
 .Clubs {
   padding: 0 3rem;
-  
 }
-
 .Clubs h2 {
   text-align: center;
   font-size: 3rem;
   color: #150f80;
 }
 
+
 .Submission-Requests {
   padding: 0 3rem;
 }
-
 .Submission-Requests h2 {
   text-align: center;
   font-size: 3rem;
-
 }
+
 
 .Contact {
   background-color: #deeafc;
@@ -148,11 +153,14 @@ body{
   padding: 0 3rem;
   padding-top: 6rem;
 }
-
 .Contact h2 {
   text-align: center;
   font-size: 3rem;
 }
+
+
+
+
 
 .photos img {
   margin: 1.5%
