@@ -114,7 +114,6 @@ body{
   margin:4em auto;
 }
 .Student-life {
-  background-color: #deeafc;
   padding: 0 3rem;
 }
 .student-life h2{
@@ -122,11 +121,7 @@ body{
   font-size: 3rem;
 }
 .Clubs {
-  display: block;
-  height: 60rem;
-  background-color:#deeafc;
   padding: 0 3rem;
-  padding-top: 1rem;
   
 }
 
@@ -137,10 +132,7 @@ body{
 }
 
 .Submission-Requests {
-  display: block;
-  background-color:#deeafc;
   padding: 0 3rem;
-  padding-top: 6rem;
 }
 
 .Submission-Requests h2 {
