@@ -110,7 +110,7 @@ body{
 .Student-life,
 .Clubs,
 .Contact,
-.Submission Requests {
+.Submission-Requests {
   margin:4em auto;
 }
 .Student-life {
@@ -136,14 +136,14 @@ body{
   color: #150f80;
 }
 
-.Sumbission-Requests {
+.Submission-Requests {
   display: block;
   background-color:#deeafc;
   padding: 0 3rem;
   padding-top: 6rem;
 }
 
-.Sumbission-Requests h2 {
+.Submission-Requests h2 {
   text-align: center;
   font-size: 3rem;
 
