@@ -156,21 +156,20 @@ body{
 
 
 
-
-.photos img {
-  margin: 1.5%
-  width: 30%
-}
-img {
-  overflow-clip-margin:  content-box;
-  overflow: clip;
-}
 li {
   display: block;
   text-align: center;
 }
+
+
+
+.Teachers img {
+  max-width: 50%;
+  margin: auto;
+}
+
 .Student-life img {
-  mac-width: 100%;
+  max-width: 50%;
   margin: auto;
 }
 
