@@ -164,8 +164,8 @@ li {
 
 
 .Teachers img {
-  max-width: 50%;
-  margin: auto;
+  width: 200px;
+  height: 200px
 }
 
 .Student-life img {
