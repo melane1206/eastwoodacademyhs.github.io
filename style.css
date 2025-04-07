@@ -143,12 +143,23 @@ body{
   text-align: center;
   font-size: 3rem;
 }
-
+.Submission-Requests a {
+  text-align: center;
+  font-size: 3rem;
+}
+.Submission-Requests p {
+  text-align: center;
+  font-size: 3rem;
+}
 
 .Contact {
   padding: 0 3rem;
 }
 .Contact h2 {
+  text-align: center;
+  font-size: 3rem;
+}
+.Contact p {
   text-align: center;
   font-size: 3rem;
 }
