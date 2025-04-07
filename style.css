@@ -138,7 +138,6 @@ body{
 
 .Submission-Requests {
   padding: 0 3rem;
-  font-size: 18px;
 }
 .Submission-Requests h2 {
   text-align: center;
@@ -148,18 +147,24 @@ body{
   tex-align: center;
   font-size: 18px;
 }
+.Submission-Requests p {
+  tex-align: center;
+  font-size: 18px;
+}
 
 
 
 .Contact {
   padding: 0 3rem;
-  font-size:18px;
 }
 .Contact h2 {
   text-align: center;
   font-size: 3rem;
 }
-
+.Contact p {
+  text-align: center;
+  font-size:18px;
+}
 
 
 
