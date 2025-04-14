@@ -138,17 +138,15 @@ body{
 
 .Submission-Requests {
   padding: 0 3rem;
+  text-align: center;
 }
 .Submission-Requests h2 {
-  text-align: center;
   font-size: 3rem;
 }
 .Submission-Requests a {
-  text-align: center;
   font-size: 18px;
 }
 .Submission-Requests p {
-  text-align: center;
   font-size: 18px;
 }
 
