@@ -144,11 +144,11 @@ body{
   font-size: 3rem;
 }
 .Submission-Requests a {
-  tex-align: center;
+  text-align: center;
   font-size: 18px;
 }
 .Submission-Requests p {
-  tex-align: center;
+  text-align: center;
   font-size: 18px;
 }
 
