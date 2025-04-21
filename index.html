@@ -126,11 +126,7 @@
   <h3>Fun Facts: "1. I trained my dog for animal-assisted therapy; she loves visiting kids and senior citizens! 2. I was in show choir in high school. 3. My family were migrant farm workers, so I got to grow up all over the country."</h3>
   <h3>Email: iramire2@houstonisd.org</h3>
 
-  <a href="#"
-  class="scrollbutton"
-  id="scrollbuttonid">
-  Scroll to Top
-  </a>
+
   
     
 </div>
@@ -274,6 +270,37 @@
   <a href="https://sites.google.com/online.houstonisd.org/welcometoeahs/home"> Submission Requests </a>
 
 </div>
+
+
+
+
+    <button id="scrollToTopBtn">↑ Top</button>
+
+  <script>
+    const scrollToTopBtn = document.getElementById("scrollToTopBtn");
+
+    window.onscroll = function () {
+      if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+        scrollToTopBtn.style.display = "block";
+      } else {
+        scrollToTopBtn.style.display = "none";
+      }
+    };
+
+
+    scrollToTopBtn.addEventListener("click", function () {
+      window.scrollTo({
+        top: 0,
+        behavior: "smooth"
+      });
+    });
+  </script>
+
+
+
+
+
+    
 </body>
 
 <footer>
