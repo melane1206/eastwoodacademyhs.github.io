@@ -66,13 +66,7 @@ header{
   display: space-between;
   justify-content: space-between;
 }
-.navbars {
-  padding-bottom: 1rem;
-  background-color: #deeafc;
-  color: #150f80;
-  display: space-between;
-  justify-content: space-between;
-}
+
 ul {
   display: inline-flex;
   justify-content: center;
